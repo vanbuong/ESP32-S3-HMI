@@ -1,0 +1,13 @@
+idf_component_register(
+    SRC_DIRS
+        "." 
+    INCLUDE_DIRS
+        "."
+    PRIV_REQUIRES
+        spiffs
+        lvgl__lvgl
+        bsp
+        i2c_bus
+        i2c_devices
+        lcd
+        )

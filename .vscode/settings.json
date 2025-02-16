@@ -1,0 +1,13 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.espIdfPathWin": "d:\\Projects\\ESP32\\SDK\\v5.3\\esp-idf",
+    "idf.openOcdConfigs": [
+        "board/esp32s3-builtin.cfg"
+    ],
+    "idf.toolsPathWin": "d:\\Projects\\ESP32\\SDK\\tool",
+    "files.associations": {
+        "bsp_lcd.h": "c"
+    },
+    "idf.portWin": "COM7",
+    "idf.flashType": "UART"
+}
